@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "cheerio": "0.18.0",
+    "cloudscraper": "git://github.com/timbowhite/cloudscraper",
     "generic-pool": "2.1.1",
     "iconv": "2.1.6",
     "iconv-lite": "0.4.4",
